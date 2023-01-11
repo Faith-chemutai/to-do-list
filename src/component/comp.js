@@ -1,9 +1,8 @@
 
 
 export function toDoList(){
-    return(
-        <h3>to do list</h3>
-    )
+    return<h3>to do list</h3>
+    
 }
 export function toDoItem(){
     return(
