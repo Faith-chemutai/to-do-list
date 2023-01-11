@@ -9,7 +9,7 @@ function ToDoList() {
       <ToDoItem/>
       
           </div>
-  );
+  )
 }
 
 export default ToDoList;
