@@ -4,7 +4,7 @@ import React from 'react'
 function toDoAnalytics() {
   return (
     <div>
-        <toDoAnalytics/>
+        toDoAnalytics
         </div>
   )
 }
